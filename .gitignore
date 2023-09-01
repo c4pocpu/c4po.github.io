@@ -1,0 +1,8 @@
+# IDE
+.idea/
+
+# Develop and view
+.hugo_build.lock
+
+# Build for publishing
+public/
